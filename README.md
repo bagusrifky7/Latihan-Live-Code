@@ -1,3 +1,3 @@
 # Latihan Live Code
-Creating simple inventory management app for supermarket/retails
+Filled with my live code exercise
 
